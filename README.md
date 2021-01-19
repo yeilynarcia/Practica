@@ -1,0 +1,2 @@
+# Practica
+iniciando en git
